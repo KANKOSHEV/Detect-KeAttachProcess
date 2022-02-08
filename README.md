@@ -34,4 +34,4 @@ then the "PEPROCESS" target process will be written to the offset "0xB8".
 
 I have implemented a check for this for every process in the system, and here is my result:
 
-![Alt Text](https://i.ibb.co/d0CPzsn/gif.gif)
+![Alt Text](https://i.ibb.co/Gvm1gsX/image.png)
